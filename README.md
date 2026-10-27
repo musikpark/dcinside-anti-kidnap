@@ -1,4 +1,4 @@
-# DCInside Anti-Kidnap
+# Dcinside Anti-Kidnap
 
 A Tampermonkey userscript that automatically enables these options when writing a DCInside post:
 
@@ -9,12 +9,5 @@ Supports regular, minor, and mini galleries. Options that are already enabled ar
 
 ## Installation
 
-1. Install Tampermonkey.
-2. Create a new userscript and paste the script.
-3. Save it and open a DCInside post editor.
-
-or 
-
-Install Tampermonkey, then [click here to install the script](https://raw.githubusercontent.com/musikpark666/dcinside-anti-kidnap/main/dcinside-auto-anti-kidnap.user.js).
-
-> Realtime Best exclusion is a request and does not guarantee exclusion.
+1. Install Violentmonkey
+2. then [click here to install the script](https://github.com/musikpark666/dcinside-anti-kidnap/raw/refs/heads/main/dcinside-anti-kidnap.user.js)
