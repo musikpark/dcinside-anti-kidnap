@@ -15,6 +15,6 @@ Supports regular, minor, and mini galleries. Options that are already enabled ar
 
 or 
 
-Install Tampermonkey, then [click here to install the script](https://raw.githubusercontent.com/musikpark666/dcinside-auto-anti-kidnap/main/dcinside-auto-anti-kidnap.user.js).
+Install Tampermonkey, then [click here to install the script](https://raw.githubusercontent.com/musikpark666/dcinside-anti-kidnap/main/dcinside-auto-anti-kidnap.user.js).
 
 > Realtime Best exclusion is a request and does not guarantee exclusion.
